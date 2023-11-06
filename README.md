@@ -41,9 +41,11 @@ To interact with this smart contract, you can deploy it to the Ethereum network 
 
 To compile and deploy the contract, follow these steps:
 
-1. Clone this repository to your local machine.
-2. Install a development environment for Ethereum (e.g., Remix, Truffle).
-3. Deploy the contract to the Ethereum network.
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/gkirat/Job-portal.git
+2. Install a development environment for Ethereum (e.g., Remix, Hardhat).
+3. Deploy the contract to the Testnet network.
 4. Interact with the contract using its functions.
 
 ## Contributions
